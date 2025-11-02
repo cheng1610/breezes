@@ -24,7 +24,7 @@
 </template>
 
 <script setup>
-import shoe from '../assets/shoe3.png'
+import shoe from '../assets/shoe.png'
 
 </script>
 
