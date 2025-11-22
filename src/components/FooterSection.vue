@@ -1,5 +1,5 @@
 <template>
-  <footer class="footer" role="contentinfo">
+  <footer class="footer">
     <div class="footer__container">
       <p class="copyright">© 2025 Breezes. All rights reserved.</p>
     </div>

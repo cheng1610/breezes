@@ -1,18 +1,16 @@
 <template>
   <section class="home__section">
-    <div class="bg__top"></div>
-
     <div class="home__inner">
       <div class="text__area">
         <h2 class="logo__name">Breezes</h2>
         <h1 class="logo__header">Move Lightly.<br />Step Confidently.</h1>
-        <p class="logo__desc">
+        <p class="logo__description">
           Experience comfort and style with every step — engineered for movement, designed for you.
         </p>
 
-        <div class="btn__group">
+        <div class="btns">
           <button class="btn primary">Shop Now</button>
-          <button class="btn secondary">Learn More</button>
+          <button class="btn second">Learn More</button>
         </div>
       </div>
 
@@ -35,16 +33,6 @@ import shoe from '../assets/shoe.png'
   overflow: hidden;
   background: linear-gradient(180deg, #f8f9ff 0%, #ffffff 100%);
   padding: 6rem 1.5rem 5rem;
-}
-
-.bg__top {
-  position: absolute;
-  top: -80px;
-  right: -80px;
-  width: 300px;
-  height: 300px;
-  background: radial-gradient(circle at center, rgba(102,126,234,0.25), transparent 70%);
-  z-index: 0;
 }
 
 .home__inner {
@@ -81,14 +69,14 @@ import shoe from '../assets/shoe.png'
   margin-bottom: 1rem;
 }
 
-.logo__desc {
+.logo__description {
   font-size: 1rem;
   color: #6b7280;
   margin-bottom: 1.8rem;
   max-width: 420px;
 }
 
-.btn__group {
+.btns {
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
@@ -106,24 +94,22 @@ import shoe from '../assets/shoe.png'
 }
 
 .btn.primary {
-  background: linear-gradient(90deg, #667eea, #764ba2);
+  background: var(--primary-color);
   color: white;
 }
 
 .btn.primary:hover {
-  transform: translateY(-2px);
   box-shadow: 0 10px 20px rgba(102,126,234,0.25);
 }
 
-.btn.secondary {
+.btn.second {
   background: white;
   color: #374151;
   border: 1px solid #d1d5db;
 }
 
-.btn.secondary:hover {
+.btn.second:hover {
   background: #f9fafb;
-  transform: translateY(-2px);
 }
 
 .image__area {
@@ -180,6 +166,10 @@ import shoe from '../assets/shoe.png'
   }
 
   .btn__group {
+    justify-content: center;
+  }
+
+  .btns{
     justify-content: center;
   }
 }

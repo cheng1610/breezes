@@ -10,10 +10,10 @@
           :aria-label="card.title"
         >
           <div class="icon">
-            <component :is="card.icon" class="w-6 h-6 text-blue-500" />
+            <component :is="card.icon" />
           </div>
 
-          <div class="card-body">
+          <div class="card__body">
             <h3 class="card__title">{{ card.title }}</h3>
             <p class="card__desc">{{ card.desc }}</p>
           </div>
@@ -149,7 +149,7 @@ const cards = reactive([
     margin-top: 0.25rem; 
   }
 
-  .card-body{ 
+  .card__body{ 
     width: 100%; 
   }
 }
