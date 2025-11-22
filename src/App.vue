@@ -6,7 +6,7 @@
         <nav class="nav">
           <a href="#home">Home</a>
           <a href="#features">Features</a>
-          <a href="#contact" aria-disabled="true">Contact</a>
+          <a href="#contact">Contact</a>
         </nav>
       </div>
     </header>
@@ -53,7 +53,9 @@ body{
 .header__container{
   z-index: 30;
   backdrop-filter: blur(6px);
-  background: rgba(255,255,255,0.66);
+  background: transparent;
+  position: absolute;
+  width: 100%;
   border-bottom: 1px solid rgba(15,23,42,0.03);
 }
 

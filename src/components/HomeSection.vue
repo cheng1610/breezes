@@ -61,7 +61,7 @@ import shoe from '../assets/shoe.png'
   margin-bottom: 0.5rem;
 }
 
-.logo__heaser {
+.logo__header {
   font-size: 2.3rem;
   font-weight: 800;
   color: #111827;
