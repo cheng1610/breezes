@@ -7,7 +7,7 @@ Explore lightness, complemented by ergonomically designed shoes with Breezes
 ## 🚀 Features
 - shoe display and floating animation
 
-- ultiple advantages
+- multiple advantages
 
 - responsive design
 
