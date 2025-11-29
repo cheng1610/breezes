@@ -2,7 +2,7 @@
 Explore destinations, plan trips, and discover adventures with travel.com – your ultimate travel companion.
 
 ## ✨ Demo
-![img](https://github.com/ch1610/breezes/blob/main/breeze-shoe.png)
+![img](https://github.com/cheng1610/breezes/blob/main/breeze-shoe.png)
 
 ## 🚀 Features
 - sightseeing and classification
