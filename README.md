@@ -1,5 +1,29 @@
-# Vue 3 + Vite
+## trav.com - Travel website
+Explore destinations, plan trips, and discover adventures with travel.com – your ultimate travel companion.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## ✨ Demo
+![img](https://github.com/ch16447/breezes/blob/main/breeze-shoe.png?raw=true)
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 🚀 Features
+- sightseeing and classification
+
+- search for travel destinations
+
+- responsive design
+
+## 🛠️ Tech Stack
+- Frontend: Nextjs、Typescript
+
+- style: css
+
+- Icons: react-icons
+
+- Deployment: Vercel
+
+## 🧩 Setup
+### Clone Repositories
+
+```
+git clone https://github.com/ch16447/trav.com.git
+cd trav.com
+```
