@@ -1,22 +1,20 @@
 ## breezes - shoes website
-Explore destinations, plan trips, and discover adventures with travel.com – your ultimate travel companion.
+Explore lightness, complemented by ergonomically designed shoes with Breezes
 
 ## ✨ Demo
 ![img](https://github.com/cheng1610/breezes/blob/main/breeze-shoe.png)
 
 ## 🚀 Features
-- sightseeing and classification
+- shoe display and floating animation
 
-- search for travel destinations
+- ultiple advantages
 
 - responsive design
 
 ## 🛠️ Tech Stack
-- Frontend: Nextjs、Typescript
+- Frontend: Vue.js
 
 - style: css
-
-- Icons: react-icons
 
 - Deployment: Vercel
 
