@@ -25,5 +25,3 @@ Explore lightness, complemented by ergonomically designed shoes with Breezes
 git clone https://github.com/ch1610/breezes.git
 cd breezes
 ```
-cd trav.com
-```
