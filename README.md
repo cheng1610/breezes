@@ -2,7 +2,7 @@
 Explore lightness, complemented by ergonomically designed shoes with Breezes
 
 ## ✨ Demo
-![img](https://github.com/cheng1610/breezes/blob/main/breeze-shoe.png)
+![img](https://github.com/cheng1610/breezes/blob/main/shoe.png)
 
 ## 🚀 Features
 - shoe display and floating animation
