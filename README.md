@@ -1,5 +1,27 @@
-# Vue 3 + Vite
+## breezes - shoes website
+Explore lightness, complemented by ergonomically designed shoes with Breezes
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## ✨ Demo
+![img](https://github.com/cheng1610/breezes/blob/main/breeze-shoe.png)
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 🚀 Features
+- shoe display and floating animation
+
+- multiple advantages
+
+- responsive design
+
+## 🛠️ Tech Stack
+- Frontend: Vue.js
+
+- style: css
+
+- Deployment: Vercel
+
+## 🧩 Setup
+### Clone Repositories
+
+```
+git clone https://github.com/ch1610/breezes.git
+cd breezes
+```
